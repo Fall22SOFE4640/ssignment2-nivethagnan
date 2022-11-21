@@ -1,7 +1,7 @@
 # Assignment 2
 Nivetha Gnaneswaran - 100695935
 
-#Get Started
+# Get Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
